@@ -1,0 +1,20 @@
+Enter choice: 1
+Enter character to insert: a
+'a' inserted.
+Enter choice: 1
+Enter character to insert: A
+'A' inserted.
+Enter choice: 1
+Enter character to insert: b
+'b' inserted.
+Enter choice: 1
+Enter character to insert: B
+'B' inserted.
+Enter choice: 1
+Enter character to insert: C
+'C' inserted.
+Enter choice: 2
+'a' deleted.
+Enter choice: 3
+Queue: A b B C
+Enter choice: 4

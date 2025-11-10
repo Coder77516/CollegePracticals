@@ -1,0 +1,11 @@
+Enter number of students: 2
+
+Enter name, roll no and 3 marks of student 1:
+tannu 21 98 99 97
+
+Enter name, roll no and 3 marks of student 2:
+shree 17 95 96 93
+
+Name    Roll    Average
+tannu   21      98.00
+shree   17      94.67

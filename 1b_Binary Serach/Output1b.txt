@@ -1,0 +1,10 @@
+Enter the value to search: 13
+Middle value: 16
+Searching left half. New end = 3
+Middle value: 5
+Searching right half. New start = 2
+Middle value: 8
+Searching right half. New start = 3
+Middle value: 12
+Searching right half. New start = 4
+NULL (Value not found)

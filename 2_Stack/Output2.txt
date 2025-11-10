@@ -1,0 +1,27 @@
+Enter choice: 1
+Enter value: 12
+12 pushed.
+
+Enter choice: 1
+Enter value: 13
+13 pushed.
+
+Enter choice: 1
+Enter value: 40
+40 pushed.
+
+Enter choice: 1
+Enter value: 41
+41 pushed.
+
+Enter choice: 2
+41 popped.
+
+Enter choice: 3
+Stack: 40 13 12
+
+Enter choice: 4
+Enter string: MOM
+Palindrome!
+
+Enter choice: 5

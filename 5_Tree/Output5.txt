@@ -1,0 +1,10 @@
+enter node values(-1 to stop): 
+45 46 48 50 52 55 -1
+
+ Inorder traversal:  45  46  48  50  52  55 
+ Preorder traversal:  45  46  48  50  52  55 
+ postorder traversal:  55  52  50  48  46  45 
+
+enter value to search 
+50
+Found

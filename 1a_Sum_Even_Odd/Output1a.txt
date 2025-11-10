@@ -1,0 +1,4 @@
+enter size 5
+enter elements 12 13 14 15 16
+sum of numbers in even position is: 42
+sum of numbers in odd position is: 28

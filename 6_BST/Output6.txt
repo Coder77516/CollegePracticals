@@ -1,0 +1,14 @@
+Enter choice: 1 
+Enter value to insert (-1 to stop): 12
+Enter choice: 1
+Enter value to insert (-1 to stop): 13
+Enter choice: 1
+Enter value to insert (-1 to stop): 15
+Enter choice: 2
+Enter value to search: 15
+Found
+Enter choice: 3
+Enter leaf value to delete: 12
+Enter choice: 1
+Enter value to insert (-1 to stop): 16
+Enter choice: 4

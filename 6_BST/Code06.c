@@ -55,18 +55,20 @@ int main() {
         scanf("%d", &choice);
 
         switch (choice) {
+           
             case 1:
-                printf("Enter value to search: ");
-                scanf("%d", &value);
-                search(root, value);
-                break;
-            case 2:
                 printf("Enter value to insert (-1 to stop): ");
                 
                     scanf("%d", &value);
                    
                     root = insert(root, value);
                 
+                break;
+                
+            case 2:
+                printf("Enter value to search: ");
+                scanf("%d", &value);
+                search(root, value);
                 break;
             case 3:
                 printf("Enter leaf value to delete: ");

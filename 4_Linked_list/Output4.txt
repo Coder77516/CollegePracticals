@@ -1,0 +1,5 @@
+Enter elements (0 to stop):
+12 13 14 15 16 17 0
+
+Linked List: 12 => 13 => 14 => 15 => 16 => 17 => NULL
+Total number of nodes: 6

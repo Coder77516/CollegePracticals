@@ -1,0 +1,3 @@
+Enter source file name: input.txt
+Enter destination file name: output.txt
+File copied successfully!
